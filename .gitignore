@@ -1,3 +1,5 @@
 # local .exe
 
 **/output/
+
+!lessons-02/output/
